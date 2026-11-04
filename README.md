@@ -27,7 +27,6 @@ The system creates its own Wi-Fi Access Point and provides a web-based dashboard
 | Jumper Wires | As required |
 
 ## 🔌 Circuit Connections
-circuit/circuit_diagram.png
 ### 1. Soil Moisture Sensor
 
 | Sensor Pin | ESP32 Pin |
@@ -74,6 +73,13 @@ The water pump is controlled through the relay module.
 - Negative terminal of pump → Negative terminal of pump power supply.
 
 Use an external power supply suitable for the pump.
+
+## 🔌 Circuit Diagram
+
+### Complete Circuit Diagram
+
+![Circuit Diagram](./circuit/circuit_diagram.png)
+
 
 ## 📷 PCB Design
 
