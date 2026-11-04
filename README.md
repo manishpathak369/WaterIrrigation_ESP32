@@ -27,7 +27,7 @@ The system creates its own Wi-Fi Access Point and provides a web-based dashboard
 | Jumper Wires | As required |
 
 ## 🔌 Circuit Connections
-
+circuit/circuit_diagram.png
 ### 1. Soil Moisture Sensor
 
 | Sensor Pin | ESP32 Pin |
